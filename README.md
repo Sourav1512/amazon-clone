@@ -25,7 +25,17 @@ A static clone of the Amazon homepage built using only HTML and CSS. This projec
 
 <li>Media queries for responsiveness</li>
 </ul>
-<h3>Folder Structure</h3><br>
+
+
+
+## 🧰 Tech Stack
+
+- **HTML5** – Structure of the page
+- **CSS3** – Styling and layout
+
+---
+
+## 📂 Folder Structure
 
 amazon-clone-html-css/<br>
 │<br>
